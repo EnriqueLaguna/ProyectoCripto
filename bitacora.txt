@@ -1,0 +1,24 @@
++ Entro el usuario: user2@correo.mx
+
+- Intento entrar el usuario: wrongUser@correo.mx
+
++ Entro el usuario: user2@correo.mx
+
++ Entro el usuario: user2@correo.mx
+
++ Entro el usuario: user1@correo.mx
+
++ Entro el usuario: user1@correo.mx
+
++ Entro el usuario: user1@correo.mx
+
++ Entro el usuario: user1@correo.mx
+
++ Entro el usuario: user1@correo.mx
+
++ Entro el usuario: user1@correo.mx
+
++ Entro el usuario: user1@correo.mx
+
++ Entro el usuario: user1@correo.mx
+
